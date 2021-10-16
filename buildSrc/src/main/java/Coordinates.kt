@@ -12,6 +12,6 @@ object LibraryAndroidCoordinates {
     const val LIBRARY_VERSION_CODE = 1
 }
 
-object LibraryKotlinCoordinates {
+object UtilsCoordinates {
     const val LIBRARY_VERSION = "1.0.0"
 }

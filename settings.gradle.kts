@@ -16,10 +16,10 @@ pluginManagement {
     }
 }
 
-rootProject.name = ("kotlin-android-template")
+rootProject.name = ("POC-SDUI")
 
 include(
     "app",
     "library-android",
-    "library-kotlin"
+    "utils"
 )
